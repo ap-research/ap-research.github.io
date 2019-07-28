@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on AP Research</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on AP Research</description>
+    <title>Tutorial on AP Research</title>
+    <link>/categories/tutorial/</link>
+    <description>Recent content in Tutorial on AP Research</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/tutorial/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,15 +17,6 @@
       <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/07/28/local-host/</guid>
-      <description>In case the course website is inaccessible, you can host the site locally on your computer with these steps.</description>
-    </item>
-    
-    <item>
-      <title>Summer Preparation</title>
-      <link>/2019/06/11/summer-preparation/</link>
-      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/2019/06/11/summer-preparation/</guid>
       <description>To reduce the workload during the school year, please consider completing the recommended AP Research summer preparation.</description>
     </item>
     

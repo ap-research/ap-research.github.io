@@ -1376,6 +1376,51 @@ $$ S_p^2 = \frac{(n_1-1)S_1^2 + (n_2-1)S_2^2}{(n_1-1)+(n_2-1)} $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>AP Research Site (Local Host)</title>
+      <link>/project/local-host/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/local-host/</guid>
+      <description>&lt;p&gt;Please read the &lt;a href=&#34;/2019/07/28/local-host&#34;&gt;post&lt;/a&gt; on how to download the HTML output folder of the course website and host it locally on your computer. Use this method if the course website is not accessible.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Access Course Website Locally</title>
+      <link>/2019/07/28/local-host/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/07/28/local-host/</guid>
+      <description>
+
+
+&lt;p&gt;When we have some extra time in class, we will go over this post together so that everyone knows how to host the course website locally on their computer. The following procedures serve as an extra safeguard in case we encounter unforeseen difficulties accessing the course website directly.&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;&lt;p&gt;Download the &lt;a href=&#34;/project/local-host/&#34;&gt;website HTML output folder&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Save the output folder to your computer to a certain path (e.g., &lt;code&gt;C:\path\to\where\you\saved\downloaded\folder&lt;/code&gt;).&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Open RStudio and enter the following lines in the console.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(servr)
+httd(dir=&amp;quot;C:\path\to\where\you\saved\downloaded\folder&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;If you do not already have R and RStudio installed on your computer, please see the &lt;a href=&#34;/handbook/data-programming.html#r&#34;&gt;handbook section on R&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;You may need to first input &lt;code&gt;install.packages(&#34;servr&#34;)&lt;/code&gt; in the R console to install the &lt;code&gt;servr&lt;/code&gt; package before running the following code.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34; style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;The course website should appear in the Viewer tab in RStudio as shown below:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;/img/post/local-host-r-viewer.png&#34; /&gt;&lt;/p&gt;
+&lt;ol start=&#34;5&#34; style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Below the Viewer tab in RStudio, there are three buttons (see below). Click on the third button to open the website in a separate brower. Then click on the first button to remove the website display in the Viewer tab.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;/img/post/local-host-r-viewer-buttons.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Note: The procedures above will allow you to view the version of the website as of the output date found in Weiyun, where you downloaded the HTML folder. When there are updates to the website, you will have to download an updated version of the folder. A possible alternative is clicking the blue button 保存微雲 instead of 下載 on the Weiyun site, as shown below:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/post/local-host-weiyun.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;If selecting 保存微雲 allows you to sync the files to your Weiyun account, you might consider downloading &lt;a href=&#34;https://www.weiyun.com/download.html&#34;&gt;同步助手&lt;/a&gt; to sync the folder directly to your desktop to avoid downloading the folder each time the website gets updated. If you decide to explore this option, let me know if it works.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>AP Research Docs</title>
       <link>/project/class-docs/</link>
       <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
@@ -1517,7 +1562,7 @@ $$ S_p^2 = \frac{(n_1-1)S_1^2 + (n_2-1)S_2^2}{(n_1-1)+(n_2-1)} $$&lt;/p&gt;
 &lt;p&gt;2. Consider research topic(s) that you would like to explore. In AP Seminar, the type of research you focused on was primarily search and report. In AP Research, your research will need to include a replicable method to address a focused research question that will contribute to a new understanding in your chosen field.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;You may want to refer to pages 18&amp;ndash;26 of the 2017 AP Research Student Workbook as a guide for turning a problem statement into a research question. To access the Workbook, please go the &lt;a href=&#34;/portfolio/&#34;&gt;Portfolio&lt;/a&gt; tab, click on &amp;ldquo;Resources&amp;rdquo; on the blue bar and select &amp;ldquo;AP Research Docs.&amp;rdquo; I will send you a password to access the URL from which you will go to &lt;code&gt;AP Research Docs&lt;/code&gt; &amp;rarr; &lt;code&gt;Textbooks&lt;/code&gt; &amp;rarr; &lt;code&gt;2017 AP Research Student Workbook.pdf&lt;/code&gt;.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;You may want to refer to pages 18&amp;ndash;26 of the 2017 AP Research Student Workbook as a guide for turning a problem statement into a research question. To access the Workbook, please go the &lt;a href=&#34;/portfolio/&#34;&gt;Portfolio&lt;/a&gt; tab, click on &amp;ldquo;Cloud&amp;rdquo; on the blue bar and select &amp;ldquo;AP Research Docs.&amp;rdquo; I will send you a password to access the URL from which you will go to &lt;code&gt;AP_Research_Docs&lt;/code&gt; &amp;rarr; &lt;code&gt;Textbooks&lt;/code&gt; &amp;rarr; &lt;code&gt;2017 AP Research Student Workbook.pdf&lt;/code&gt;.&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;3. E-mail me with the following items:&lt;/p&gt;

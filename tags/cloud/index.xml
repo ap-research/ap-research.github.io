@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud on AP Research</title>
+    <link>/tags/cloud/</link>
+    <description>Recent content in Cloud on AP Research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AP Research Site (Local Host)</title>
+      <link>/project/local-host/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/local-host/</guid>
+      <description>HTML output folder of course website</description>
+    </item>
+    
+    <item>
+      <title>AP Research Docs</title>
+      <link>/project/class-docs/</link>
+      <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/class-docs/</guid>
+      <description>Password protected. Please do not disseminate documents shared in this link.</description>
+    </item>
+    
+  </channel>
+</rss>
