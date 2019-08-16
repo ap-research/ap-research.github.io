@@ -96,14 +96,30 @@
   </url>
   
   <url>
-    <loc>/project/local-host/</loc>
-    <lastmod>2019-07-28T00:00:00+00:00</lastmod>
+    <loc>/categories/assignments/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2019-07-28T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/2019/08/19/annotated-bib/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/local-host/</loc>
+    <lastmod>2019-07-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -114,11 +130,6 @@
   
   <url>
     <loc>/2019/07/28/local-host/</loc>
-    <lastmod>2019-07-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
     <lastmod>2019-07-28T00:00:00+00:00</lastmod>
   </url>
   
