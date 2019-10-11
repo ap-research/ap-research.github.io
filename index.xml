@@ -1375,6 +1375,45 @@ $$ S_p^2 = \frac{(n_1-1)S_1^2 + (n_2-1)S_2^2}{(n_1-1)+(n_2-1)} $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Inquiry Proposal Form</title>
+      <link>/project/inquiry/</link>
+      <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/inquiry/</guid>
+      <description>&lt;div class=&#34;cognito&#34;&gt;
+&lt;script src=&#34;https://services.cognitoforms.com/s/Tae-yEbE2EKkVDnzbTkOsQ&#34;&gt;&lt;/script&gt;
+&lt;script&gt;Cognito.load(&#34;forms&#34;, { id: &#34;3&#34; });&lt;/script&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Proposal Presentation Slides</title>
+      <link>/project/proposal-pres/</link>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/proposal-pres/</guid>
+      <description>&lt;div class=&#34;cognito&#34;&gt;
+&lt;script src=&#34;https://services.cognitoforms.com/s/Tae-yEbE2EKkVDnzbTkOsQ&#34;&gt;&lt;/script&gt;
+&lt;script&gt;Cognito.load(&#34;forms&#34;, { id: &#34;4&#34; });&lt;/script&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Annotated Bilbliography</title>
+      <link>/project/annot-bib/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/annot-bib/</guid>
+      <description>&lt;div class=&#34;cognito&#34;&gt;
+&lt;script src=&#34;https://services.cognitoforms.com/s/Tae-yEbE2EKkVDnzbTkOsQ&#34;&gt;&lt;/script&gt;
+&lt;script&gt;Cognito.load(&#34;forms&#34;, { id: &#34;5&#34; });&lt;/script&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Developing an Annotated Bibliography</title>
       <link>/2019/08/19/annotated-bib/</link>
       <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
@@ -1546,19 +1585,6 @@ httd(dir=&amp;quot;C:\path\to\where\you\saved\downloaded\folder&amp;quot;)&lt;/c
       
       <guid>/project/apcentral/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Inquiry Proposal Form</title>
-      <link>/project/inquiry/</link>
-      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/project/inquiry/</guid>
-      <description>&lt;div class=&#34;cognito&#34;&gt;
-&lt;script src=&#34;https://services.cognitoforms.com/s/Tae-yEbE2EKkVDnzbTkOsQ&#34;&gt;&lt;/script&gt;
-&lt;script&gt;Cognito.load(&#34;forms&#34;, { id: &#34;1&#34; });&lt;/script&gt;
-&lt;/div&gt;
-</description>
     </item>
     
     <item>

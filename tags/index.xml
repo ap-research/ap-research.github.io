@@ -21,20 +21,38 @@
     </item>
     
     <item>
-      <title>Cloud</title>
-      <link>/tags/cloud/</link>
-      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      <title>Proposals</title>
+      <link>/tags/proposals/</link>
+      <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/cloud/</guid>
+      <guid>/tags/proposals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Submissions</title>
+      <link>/tags/submissions/</link>
+      <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/submissions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Presentation</title>
       <link>/tags/presentation/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud</title>
+      <link>/tags/cloud/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cloud/</guid>
       <description></description>
     </item>
     
@@ -57,29 +75,11 @@
     </item>
     
     <item>
-      <title>Proposals</title>
-      <link>/tags/proposals/</link>
-      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/proposals/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Rubrics</title>
       <link>/tags/rubrics/</link>
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/rubrics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Submissions</title>
-      <link>/tags/submissions/</link>
-      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/submissions/</guid>
       <description></description>
     </item>
     

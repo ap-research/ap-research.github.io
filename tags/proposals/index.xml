@@ -6,7 +6,7 @@
     <description>Recent content in Proposals on AP Research</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/proposals/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,19 @@
     <item>
       <title>Inquiry Proposal Form</title>
       <link>/project/inquiry/</link>
-      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>/project/inquiry/</guid>
-      <description>Due on October 30. Must receive teacher approval of this completed form before conducting research.</description>
+      <description>Due on November 8, 2019 (9 a.m.). Must receive teacher approval of this completed form before conducting research.</description>
+    </item>
+    
+    <item>
+      <title>Annotated Bilbliography</title>
+      <link>/project/annot-bib/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/annot-bib/</guid>
+      <description>Due on October 25, 2019 (9 a.m.).</description>
     </item>
     
     <item>
